@@ -1,5 +1,6 @@
 # **About Dataset**
-**Dataset Description: E-commerce Customer Behavior**
+
+# **Dataset Description: E-commerce Customer Behavior**
 
 **Overview:**
   This dataset provides a comprehensive view of customer behavior within an e-commerce platform. Each entry in the dataset corresponds to a unique customer, offering a detailed breakdown of their interactions and transactions. The information is crafted to facilitate a nuanced analysis of customer preferences, engagement patterns, and satisfaction levels, aiding businesses in making data-driven decisions to enhance the customer experience.
