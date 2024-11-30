@@ -81,7 +81,7 @@ The Exploratory Data Analysis (EDA) of e-commerce customer behavior dataset prov
 
 - **Average Rating:** The distribution indicates how customers generally perceive the service or products. There is a notable correlation between total spend and average rating, suggesting that higher spending might be associated with higher satisfaction. Satisfaction Levels: Different satisfaction levels (Satisfied, Neutral, Unsatisfied) show distinct patterns in terms of spending, which can inform customer retention strategies. Geographical Influence:
 
-- **City-**Based Spending: Variation in average spending across different cities indicates geographical influences on customer behavior. This can be useful for regional marketing strategies. Membership and Loyalty:
+- **City-Based Spending:** Variation in average spending across different cities indicates geographical influences on customer behavior. This can be useful for regional marketing strategies. Membership and Loyalty:
 
 - **Membership Type:** Different types of memberships (Gold, Silver, Bronze) show distinct spending patterns. Notably, there's a strong correlation between having a Gold membership and being in the satisfied customer segment. Discounts and Purchasing Frequency:
 
